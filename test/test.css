@@ -104,6 +104,16 @@ html {
   padding-bottom: 2.5mm;
   border-bottom: 0.1mm solid black;
 }
+#stitek #panty_features #panty_wrapper {
+  display: flex;
+  width: 35%;
+  flex-wrap: wrap;
+}
+#stitek #panty_features #panty_wrapper .zaruben_icon {
+  margin-right: 2.5mm;
+  margin-bottom: 1.5mm;
+  width: 10mm;
+}
 #stitek #footer {
   width: 100%;
 }

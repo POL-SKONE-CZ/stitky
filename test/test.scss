@@ -125,6 +125,21 @@ html{
       }
     }
 
+    #panty_features{
+
+      #panty_wrapper{
+        display: flex;
+        width: 35%;
+        flex-wrap: wrap;
+
+        .zaruben_icon{
+          margin-right: 2.5mm;
+          margin-bottom: 1.5mm;
+          width: 10mm;
+        }
+      }
+    }
+
     #footer{
       width: 100%;
       #footer_wrapper{
