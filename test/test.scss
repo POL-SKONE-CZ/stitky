@@ -133,6 +133,8 @@ html{
     #panty_features{
 
       margin-bottom: 5mm;
+      display: flex;
+      justify-content: space-between;
 
       #panty_wrapper{
         display: flex;
@@ -144,6 +146,25 @@ html{
           //margin-right: 2.5mm;
           margin-bottom: 1.5mm;
           width: 12.5mm;
+        }
+      }
+
+      #features_wrapper{
+        width: 60%;
+        display: flex;
+        flex-direction: row-reverse;
+        
+        .feat{
+          margin-left: 2.5mm;
+          img{
+            width: 20mm;
+            border: 1px solid #B3B3B3;
+          }
+          p{
+            max-width: 20mm;
+            font-size: 1.5mm;
+            margin-top: 0;
+          }
         }
       }
     }
