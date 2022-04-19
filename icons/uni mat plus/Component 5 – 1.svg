@@ -1,0 +1,47 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.267" height="28.701" viewBox="0 0 39.267 28.701">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-size: 6px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_72" data-name="Rectangle 72" class="cls-1" width="39.267" height="27.928" transform="translate(321.481 428.598)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_71" data-name="Rectangle 71" class="cls-1" width="41.439" height="30.03" transform="translate(320.375 427.548)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 61 83">
+      <image width="61" height="83" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAABTCAIAAACj/piUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB3SURBVGhD7c6xCcAADMCwtM/k/w+79AZDQFq8+tndOej9e43vlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bvlu+W75bv1s3vmQ/YsAEb6RwuoAAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Group_56" data-name="Group 56" transform="translate(-321.481 -428.598)">
+    <g id="Group_55" data-name="Group 55" class="cls-2">
+      <g id="Group_54" data-name="Group 54">
+        <g id="Group_53" data-name="Group 53" class="cls-3">
+          <rect id="Rectangle_70" data-name="Rectangle 70" class="cls-4" width="30.03" height="41.439" transform="translate(320.375 457.577) rotate(-90)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text id="_644" data-name="644" class="cls-5" transform="translate(1.803 26.701)"><tspan x="0" y="0">644</tspan></text>
+</svg>

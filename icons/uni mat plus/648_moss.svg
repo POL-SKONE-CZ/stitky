@@ -1,1 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><svg id="a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 41 31.68"><defs><style>.c{fill:#fff;}.d{fill:#e65125;}.e{clip-path:url(#b);}.f{fill:none;}</style><clipPath id="b"><rect class="f" x="0" y=".37" width="41" height="29.93"/></clipPath></defs><g><g class="e"><image transform="translate(0) scale(.51 .54)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA+CAYAAAC875yHAAAACXBIWXMAABWHAAAVhwGyGe66AAAAsUlEQVR4Xu3QsQ3CUBTAwJeIMiOwB/NnA/ah+JkAIuT2rnbl7Xg91/C3bZ9Zn3XudyG/GRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGD1m5ryL+Op9AWo6ByplUePwAAAAAElFTkSuQmCC"/></g><path class="c" d="M3.43,27.45c0-.92,.19-1.61,.56-2.06,.37-.45,.93-.68,1.66-.68,.25,0,.45,.02,.59,.05v.79c-.18-.04-.36-.06-.53-.06-.32,0-.58,.05-.79,.15s-.35,.25-.46,.45c-.1,.2-.16,.48-.18,.85h.04c.2-.36,.52-.54,.96-.54,.4,0,.71,.13,.93,.39s.34,.62,.34,1.08c0,.5-.13,.89-.4,1.18s-.64,.44-1.11,.44c-.33,0-.61-.08-.86-.24-.24-.16-.43-.39-.56-.7-.13-.31-.2-.68-.2-1.11Zm1.6,1.26c.2,0,.35-.07,.46-.21,.11-.14,.16-.34,.16-.6,0-.23-.05-.41-.15-.54s-.25-.2-.45-.2c-.19,0-.35,.06-.49,.19-.13,.13-.2,.28-.2,.45,0,.25,.06,.47,.19,.64,.13,.17,.29,.26,.48,.26Zm5.17-.24h-.53v.97h-.91v-.97h-1.89v-.69l1.94-3.01h.86v2.93h.53v.77Zm-1.45-.77v-.79c0-.13,0-.32,.02-.57,.01-.25,.02-.4,.02-.44h-.02c-.07,.17-.16,.34-.27,.51l-.81,1.29h1.07Zm3.32-2.99c.42,0,.77,.1,1.03,.3,.26,.2,.39,.48,.39,.82,0,.24-.06,.45-.19,.64-.13,.19-.33,.35-.61,.5,.33,.19,.57,.38,.71,.59,.14,.2,.22,.43,.22,.67,0,.38-.14,.69-.43,.92s-.66,.35-1.12,.35-.87-.11-1.14-.33-.41-.52-.41-.92c0-.27,.07-.5,.2-.71,.13-.21,.35-.39,.65-.55-.25-.17-.43-.35-.55-.54s-.17-.4-.17-.63c0-.33,.13-.6,.39-.81,.26-.21,.6-.31,1.03-.31Zm-.05,2.69c-.43,.21-.65,.47-.65,.79,0,.18,.06,.33,.18,.43s.29,.15,.5,.15c.23,0,.41-.05,.52-.16s.17-.24,.17-.42c0-.14-.06-.28-.17-.4s-.3-.26-.56-.4h0Zm.04-1.97c-.16,0-.29,.04-.39,.13s-.15,.2-.15,.35c0,.13,.04,.24,.12,.34,.08,.1,.22,.2,.42,.31,.2-.1,.34-.2,.41-.3s.12-.22,.12-.35c0-.15-.05-.26-.15-.35-.1-.09-.23-.13-.39-.13Z"/></g><rect class="d" y=".37" width="30.04" height="7.16"/><g><path class="c" d="M5.5,6.6h-1.19l-1.93-3.17h-.03c.04,.56,.06,.96,.06,1.2v1.97h-.84V2.4h1.19l1.92,3.14h.02c-.03-.55-.05-.93-.05-1.16v-1.99h.85V6.6Z"/><path class="c" d="M10.39,4.5c0,.69-.18,1.23-.55,1.6-.36,.37-.88,.56-1.56,.56s-1.2-.19-1.56-.56c-.36-.37-.55-.91-.55-1.61s.18-1.23,.55-1.6c.36-.37,.89-.55,1.57-.55s1.2,.19,1.56,.56c.36,.37,.54,.91,.54,1.6Zm-3.23,0c0,.47,.09,.82,.28,1.06,.19,.24,.47,.36,.84,.36,.75,0,1.12-.47,1.12-1.42s-.37-1.42-1.12-1.42c-.37,0-.66,.12-.84,.36-.19,.24-.29,.59-.29,1.06Z"/><path class="c" d="M13.59,2.4h.95l-1.51,4.2h-1.02l-1.5-4.2h.95l.83,2.5c.05,.15,.09,.32,.14,.52,.05,.2,.08,.33,.09,.41,.02-.18,.1-.48,.23-.92l.84-2.5Z"/><path class="c" d="M14.86,6.6V2.4h.94V6.6h-.94Z"/><path class="c" d="M20.59,6.6h-1.19l-1.93-3.17h-.03c.04,.56,.06,.96,.06,1.2v1.97h-.84V2.4h1.18l1.92,3.14h.02c-.03-.55-.05-.93-.05-1.16v-1.99h.85V6.6Z"/><path class="c" d="M25.03,6.6h-1.07l-1.16-1.77-.4,.27v1.5h-.94V2.4h.94v1.92l.37-.49,1.2-1.43h1.04l-1.54,1.86,1.56,2.34Z"/><path class="c" d="M28.05,6.6l-.32-1h-1.61l-.32,1h-1.01l1.56-4.21h1.15l1.57,4.21h-1.01Zm-.54-1.75c-.3-.91-.46-1.42-.5-1.54s-.06-.21-.08-.28c-.07,.25-.26,.85-.57,1.82h1.15Z"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 28" style="enable-background:new 0 0 40 28;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000098915814936617073910000009048400050143602590_);}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'OpenSans-Bold';}
+	.st3{font-size:6px;}
+	.st4{fill:#E65125;}
+	.st5{font-size:5.4px;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0" y="0" width="40" height="28"/>
+	</defs>
+	<clipPath id="SVGID_00000106827017384422178740000008843935243334885539_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000106827017384422178740000008843935243334885539_);">
+		<defs>
+			<rect id="SVGID_00000029043741474655722670000012632332475010782891_" x="0" y="-0.3" width="40" height="29.6"/>
+		</defs>
+		<clipPath id="SVGID_00000062169400517173548870000007026373387435404469_">
+			<use xlink:href="#SVGID_00000029043741474655722670000012632332475010782891_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000062169400517173548870000007026373387435404469_);">
+			
+				<image style="overflow:visible;" width="80" height="59" xlink:href="D1075A95.jpg"  transform="matrix(0.5 0 0 0.5024 3.914026e-04 -0.3473)">
+			</image>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 3.1041 26.6986)" class="st1 st2 st3">648</text>
+<rect x="0" y="0" class="st4" width="29.1" height="6.6"/>
+<text transform="matrix(1.1111 0 0 1 0.9791 5.722)"><tspan x="0" y="0" class="st1 st2 st5">NOV</tspan><tspan x="11.6" y="0" class="st1 st2 st5">I</tspan><tspan x="13.1" y="0" class="st1 st2 st5">N</tspan><tspan x="17.3" y="0" class="st1 st2 st5">K</tspan><tspan x="20.7" y="0" class="st1 st2 st5">A</tspan></text>
+</svg>

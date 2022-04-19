@@ -95,7 +95,7 @@ html{
             margin-top: 0;
             text-align: center;
             font-weight: 700;
-            font-size: 2.5mm;
+            font-size: 2mm;
           }
         }
       }
@@ -110,6 +110,8 @@ html{
     }
 
     #default_text{
+
+      margin-bottom: 5mm;
       
       #standardni_provedeni{
         font-size: 4mm;
@@ -123,20 +125,66 @@ html{
         padding-bottom: 2.5mm;
         border-bottom: .1mm solid black;
       }
+      :last-child{
+        border-bottom: none;
+      }
     }
 
     #panty_features{
+
+      margin-bottom: 5mm;
 
       #panty_wrapper{
         display: flex;
         width: 35%;
         flex-wrap: wrap;
+        justify-content: space-between;
 
         .zaruben_icon{
-          margin-right: 2.5mm;
+          //margin-right: 2.5mm;
           margin-bottom: 1.5mm;
-          width: 10mm;
+          width: 12.5mm;
         }
+      }
+    }
+
+    #dekory{
+      margin-bottom: 5mm;
+
+      .paleta{
+        display: flex;
+
+        .leading_paleta{
+          margin-right: 5mm;
+          img{
+            height: 8mm;
+          }
+        }
+
+        .full_paleta{
+          width: 100%;
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+
+          div{
+            margin-right: 2.5mm;
+            img{
+              margin-bottom: 0;
+              padding-bottom: 0;
+              height: 7.5mm;
+            }
+            p{
+              margin-top: 0;
+              padding-top: 0;
+              text-align: center;
+              font-size: 2mm;
+              font-weight: 400;
+              max-width: 10mm;
+            }
+          }
+        }
+        
       }
     }
 

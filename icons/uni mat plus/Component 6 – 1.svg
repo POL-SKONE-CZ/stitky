@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.685" height="28.7" viewBox="0 0 39.685 28.7">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: url(#pattern);
+      }
+
+      .cls-6 {
+        stroke: #c6c6c6;
+        stroke-width: 0.25px;
+      }
+
+      .cls-7 {
+        font-size: 6px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_68" data-name="Rectangle 68" class="cls-1" width="39.435" height="28.096" transform="translate(275.971 428.724)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_67" data-name="Rectangle 67" class="cls-1" width="40.56" height="29.28" transform="translate(275.971 428.723)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 82 59">
+      <image width="82" height="59" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAA7CAIAAABntUpeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABnSURBVGhD7c+hAYAwEMDAh7L/WngkyxTDFpdzkTne5x7Jnr3Wdf6FaVvStqRtSduStiVtS9qWtC1pW9K2pG1J25K2JW1L2pa0LWlb0rakbUnbkrYlbUvalrQtaVvStqRtSdsScnvmA4R/BPHoyyhBAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Component_6_1" data-name="Component 6 – 1" transform="translate(0.125 0.125)">
+    <rect id="Rectangle_65" data-name="Rectangle 65" class="cls-2" width="39.435" height="28.096"/>
+    <g id="Group_52" data-name="Group 52" transform="translate(-275.971 -428.724)">
+      <g id="Group_51" data-name="Group 51" class="cls-3">
+        <g id="Group_50" data-name="Group 50">
+          <g id="Group_49" data-name="Group 49" class="cls-4">
+            <rect id="Rectangle_66" data-name="Rectangle 66" class="cls-5" width="40.56" height="29.28" transform="translate(275.971 428.723)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_69" data-name="Rectangle 69" class="cls-6" width="39.435" height="28.096"/>
+    <text id="_643" data-name="643" class="cls-7" transform="translate(1.677 26.575)"><tspan x="0" y="0">643</tspan></text>
+  </g>
+</svg>
