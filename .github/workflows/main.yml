@@ -21,7 +21,7 @@ jobs:
           git config --local user.name "GitHub Action"
           for i in $(find . -type f -print)
           do
-              weasyprint "${file##*/}".html "${file##*/}".pdf
+              weasyprint "${file##*/}" "${file##*/}".pdf
           done
       - name: Commit files
         run: |
