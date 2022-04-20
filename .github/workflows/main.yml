@@ -1,0 +1,35 @@
+name: Weasyprint
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Install pandoc, python and weasyprint + depencencies
+        run: |
+          sudo apt-get install build-essential python3-dev python3-pip python3-setuptools python3-wheel python3-cffi libcairo2 libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
+          sudo apt-get install pandoc
+          sudo python3 -m pip install WeasyPrint
+      - name: Create pdf's
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          for i in $(find . -type f -print)
+          do
+              weasyprint "${file##*/}".html "${file##*/}".pdf
+          done
+      - name: Commit files
+        run: |
+          git add .
+          git commit -m "Created pdfs" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Test Pandoc
+        run: pandoc -h
