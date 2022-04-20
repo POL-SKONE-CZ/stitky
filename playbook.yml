@@ -20,7 +20,6 @@
         - libffi-dev
         - shared-mime-info
         - pandoc
-        - git
         state: present
         update_cache: yes
     - name: Install WeasyPrint
@@ -33,6 +32,6 @@
         recurse: yes
       register: files
     - name: Convert all files
-      shell: 'weasyprint {{ item.path }} {{ item.path.replace(".html", ".pdf") }}'
+      shell: 'WeasyPrint {{ item.path }} {{ item.path.replace(".html", ".pdf") }}'
       register: echo
       loop: '{{ files.files }}'
