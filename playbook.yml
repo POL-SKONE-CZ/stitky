@@ -23,6 +23,7 @@
         state: present
         update_cache: yes
     - name: Install WeasyPrint
+      become: true
       pip:
         name: WeasyPrint
     - name: "Find all files"
@@ -32,6 +33,6 @@
         recurse: yes
       register: files
     - name: Convert all files
-      shell: 'WeasyPrint {{ item.path }} {{ item.path.replace(".html", ".pdf") }}'
+      shell: 'weasyprint {{ item.path }} {{ item.path.replace(".html", ".pdf") }}'
       register: echo
       loop: '{{ files.files }}'
