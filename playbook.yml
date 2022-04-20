@@ -19,7 +19,6 @@
         - libgdk-pixbuf2.0-0
         - libffi-dev
         - shared-mime-info
-        - pandoc
         state: present
         update_cache: yes
     - name: Install WeasyPrint
