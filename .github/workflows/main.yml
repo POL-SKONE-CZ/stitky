@@ -1,4 +1,4 @@
-name: Pandoc Weasyprint
+name: Weasyprint
 
 on:
   push:

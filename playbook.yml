@@ -23,9 +23,9 @@
         state: present
         update_cache: yes
     - name: Install WeasyPrint
-      become: true
       pip:
         name: WeasyPrint
+        executable: pip3
     - name: "Find all files"
       find:
         paths: '{{ playbook_dir }}'
