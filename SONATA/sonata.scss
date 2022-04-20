@@ -84,7 +84,7 @@ html{
 
         .single_door{
           margin: 0 .75mm 0 .75mm;
-          width: 17.5%;
+          width: 12.25%;
 
           img{
             margin-bottom: 0;
@@ -95,7 +95,7 @@ html{
             margin-top: 0;
             text-align: center;
             font-weight: 700;
-            font-size: 2mm;
+            font-size: 1.75mm;
           }
         }
       }
@@ -178,7 +178,7 @@ html{
         .leading_paleta{
           margin-right: 5mm;
           img{
-            height: 8mm;
+            height: 7.5mm;
           }
         }
 
@@ -194,6 +194,8 @@ html{
               margin-bottom: 0;
               padding-bottom: 0;
               height: 7.5mm;
+              // border-top: .2mm solid #B3B3B3;
+              // border-right: .2mm solid #B3B3B3;
             }
             p{
               margin-top: 0;
@@ -204,8 +206,7 @@ html{
               max-width: 10mm;
             }
           }
-        }
-        
+        }        
       }
     }
 
