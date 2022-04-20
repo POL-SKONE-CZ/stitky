@@ -1,0 +1,37 @@
+---
+- hosts: localhost
+  connection: local
+
+  tasks:
+    - name: "Install required packages"
+      apt:
+        name:
+        - build-essential
+        - python3-dev
+        - python3-pip
+        - python3-setuptools
+        - python3-wheel
+        - python3-cffi
+        - libcairo2
+        - libpango-1.0-0
+        - libpangocairo-1.0-0
+        - libgdk-pixbuf2.0-0
+        - libffi-dev
+        - shared-mime-info
+        - pandoc
+        - git
+        state: present
+        update_cache: yes
+    - name: Install WeasyPrint
+      pip:
+        name: WeasyPrint
+    - name: "Find all files"
+      find:
+        paths: '{{ playbook_dir }}'
+        patterns: '*.html'
+        recurse: yes
+      register: files
+    - name: Convert all files
+      shell: 'weasyprint {{ item.path }} {{ item.path.replace(".html", ".pdf") }}'
+      register: echo
+      loop: '{{ files.files }}'
