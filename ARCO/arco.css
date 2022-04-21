@@ -71,7 +71,6 @@ html {
 }
 #stitek #outer_modely #modely_wrapper {
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
 }
 #stitek #outer_modely #modely_wrapper .single_door {
