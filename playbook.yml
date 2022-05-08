@@ -27,6 +27,9 @@
         name: WeasyPrint
         executable: pip3
         
+    - name: "Install NPM package: sass"
+      npm:
+        name: "sass"
         
     - name: "Find all .css files"
       find:
