@@ -34,8 +34,7 @@
         recurse: yes
       register: styles
     - name: Generate scss
-      shell: 'sass {{ item.path }}:{{ item.path.replace(".css", ".scss") }}'
-      unsafe_writes: yes
+      shell: '{{ item.path | dirname }} && sass {{ item.path | basename }}:{{ item.path | basename.replace(".css", ".scss") }}'
       register: echo
       loop: '{{ styles.files }}'
       
