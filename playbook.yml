@@ -30,11 +30,11 @@
     - name: "Find all .css files"
       find:
         paths: '{{ playbook_dir }}'
-        patterns: '*.css'
+        patterns: '*.scss'
         recurse: yes
       register: styles
     - name: Generate scss
-      shell: 'cd {{ item.path | dirname }} && sass {{ item.path | basename }}:{{ item.path.replace(".css", ".scss") | basename }}'
+      shell: 'cd {{ item.path | dirname }} && sass {{ item.path | basename }}:{{ item.path.replace(".scss", ".css") | basename }}'
       register: echo
       loop: '{{ styles.files }}'
       
