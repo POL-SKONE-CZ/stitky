@@ -25,6 +25,20 @@
       pip:
         name: WeasyPrint
         executable: pip3
+        
+        
+    - name: "Find all .css files"
+      find:
+        paths: '{{ playbook_dir }}'
+        patterns: '*.css'
+        recurse: yes
+      register: styles
+    - name: Generate scss
+      shell: 'sass {{ item.path }} {{ item.path.replace(".css", ".scss") }}'
+      register: echo
+      loop: '{{ styles.files }}'
+      
+      
     - name: "Find all files"
       find:
         paths: '{{ playbook_dir }}'
