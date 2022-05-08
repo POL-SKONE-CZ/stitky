@@ -123,7 +123,6 @@ html {
 #stitek #primary_text p {
   text-align: left;
   font-size: 2.5mm;
-  text-align: left;
 }
 
 #stitek #default_text {
@@ -138,7 +137,6 @@ html {
 #stitek #default_text p {
   text-align: left;
   font-size: 2.5mm;
-  text-align: left;
   padding-bottom: 2.5mm;
   border-bottom: 0.1mm solid black;
 }
@@ -276,4 +274,4 @@ html {
   font-size: 3mm;
   color: white;
 }
-/*# sourceMappingURL=test.css.map */
+/*# sourceMappingURL=defaults.css.map */
