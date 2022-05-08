@@ -27,10 +27,6 @@
         name: WeasyPrint
         executable: pip3
         
-    - name: "Install NPM package: sass"
-      npm:
-        name: "sass"
-        
     - name: "Find all .css files"
       find:
         paths: '{{ playbook_dir }}'
@@ -39,6 +35,7 @@
       register: styles
     - name: Generate scss
       shell: 'sass {{ item.path }}:{{ item.path.replace(".css", ".scss") }}'
+      unsafe_writes: yes
       register: echo
       loop: '{{ styles.files }}'
       
