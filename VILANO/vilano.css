@@ -1,3 +1,204 @@
+@font-face {
+  font-family: Roboto;
+  font-weight: 100;
+  src: url(../fonts/Roboto-Thin.ttf);
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 400;
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: Roboto;
+  font-weight: 700;
+  src: url(../fonts/Roboto-Bold.ttf);
+}
+@page {
+  height: 280mm;
+  width: 98mm;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
 
+#stitek {
+  margin: 0.75cm;
+  padding: 0;
+}
+#stitek #logo_wrap {
+  text-align: center;
+}
+#stitek #logo_wrap #plskn_logo {
+  margin: auto;
+  width: 33%;
+}
+#stitek #nadpis {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  margin: 10mm 0 5mm 0;
+}
+#stitek #nadpis #text_nadpis {
+  text-transform: uppercase;
+}
+#stitek #nadpis #text_nadpis h2 {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  font-size: 10mm;
+}
+#stitek #nadpis #text_nadpis p {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  margin-top: 0;
+  font-size: 4mm;
+}
+#stitek #nadpis #qr {
+  height: 1.5cm;
+  margin-top: 1.5mm;
+  margin-left: 5mm;
+}
+#stitek #outer_modely {
+  margin: 0;
+  padding: 0;
+}
+#stitek #outer_modely #modely_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+#stitek #outer_modely #modely_wrapper .single_door {
+  margin: 0 0.75mm 0 0.75mm;
+  width: 18%;
+}
+#stitek #outer_modely #modely_wrapper .single_door img {
+  margin-bottom: 0;
+  max-width: 100%;
+}
+#stitek #outer_modely #modely_wrapper .single_door p {
+  margin-top: 0;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2mm;
+}
+#stitek #primary_text p {
+  text-align: left;
+  font-size: 2.5mm;
+  text-align: left;
+}
+#stitek #default_text {
+  margin-bottom: 5mm;
+}
+#stitek #default_text #standardni_provedeni {
+  font-size: 4mm;
+  text-transform: uppercase;
+}
+#stitek #default_text p {
+  text-align: left;
+  font-size: 2.5mm;
+  text-align: left;
+  padding-bottom: 2.5mm;
+  border-bottom: 0.1mm solid black;
+}
+#stitek #default_text :last-child {
+  border-bottom: none;
+}
+#stitek #panty_features {
+  margin-bottom: 5mm;
+  display: flex;
+  justify-content: space-between;
+}
+#stitek #panty_features #panty_wrapper {
+  display: flex;
+  width: 35%;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+#stitek #panty_features #panty_wrapper .zaruben_icon {
+  margin-bottom: 1.5mm;
+  width: 12.5mm;
+}
+#stitek #panty_features #features_wrapper {
+  width: 60%;
+  display: flex;
+  flex-direction: row-reverse;
+}
+#stitek #panty_features #features_wrapper .feat {
+  margin-left: 2.5mm;
+}
+#stitek #panty_features #features_wrapper .feat img {
+  width: 20mm;
+  border: 1px solid #B3B3B3;
+}
+#stitek #panty_features #features_wrapper .feat p {
+  max-width: 20mm;
+  font-size: 1.5mm;
+  margin-top: 0;
+}
+#stitek #dekory {
+  margin-bottom: 5mm;
+}
+#stitek #dekory .paleta {
+  display: flex;
+}
+#stitek #dekory .paleta .leading_paleta {
+  margin-right: 5mm;
+}
+#stitek #dekory .paleta .leading_paleta img {
+  height: 8mm;
+}
+#stitek #dekory .paleta .full_paleta {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+#stitek #dekory .paleta .full_paleta div {
+  margin-right: 2.5mm;
+}
+#stitek #dekory .paleta .full_paleta div img {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  height: 7.5mm;
+}
+#stitek #dekory .paleta .full_paleta div p {
+  margin-top: 0;
+  padding-top: 0;
+  text-align: center;
+  font-size: 2mm;
+  font-weight: 400;
+  max-width: 10mm;
+}
+#stitek #dekory .paleta .full_paleta div #mocdlouhy {
+  max-width: 25mm;
+  text-align: left;
+}
+#stitek #dekory .paleta .full_paleta div .ralcode {
+  font-size: 1.5mm;
+}
+#stitek #footer {
+  width: 100%;
+}
+#stitek #footer #footer_wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 10mm;
+  background-color: #00713C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#stitek #footer #footer_wrapper p {
+  font-size: 3mm;
+  color: white;
+}
 
 /*# sourceMappingURL=vilano.css.map */
