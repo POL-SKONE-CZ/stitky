@@ -1,0 +1,23 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.434" height="28.576" viewBox="0 0 39.434 28.576">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_65" data-name="Rectangle 65" width="39.434" height="27.71" transform="translate(139.59 361.542)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_64" data-name="Rectangle 64" width="39.435" height="27.71" transform="translate(139.59 361.542)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 79 56">
+      <image width="79" height="56" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAA4CAIAAAAzcTKoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAKqSURBVGhD3ZiNloQgCIVr3/+Zt71KkT+I1MxOMN/xNKVoXFBrWrdtW57njg+mPrsR/aw/+edx1qNcgKwNfSB1H9yJWtCkavdPx2ZxWvlRSz6xZ6Z5Skw0o/mw8KOWIe9QLgiekwU7VHuHI3kDjrh5VttLmIgaQv1W77mFm6VCytFdzUFmcqkZJ8J6Ni3xzbtaUYWQ2zIeCv5zS4JZNk5MiWzJnZy8OVqY+wmLMsNthy2SWmB1dWQXYpdiLGtTC0kstabcKiH5ttwiHl+TWzARjOahhfvnrcg8w7JF8eZoWhLPwe5pU1Vry8R6AhGaWp1wMxmK5HlqSVostSxVEIwqKgqx1OpaTkZ2EffkyZyF1JFFRLXAskgFgqodgjAMIxHq7YKE3Mxqwv13KXBB3tTUv1redKwbskKsmTxhEo8g61Z5plzB67qFtlLeO6RmvvC7lGLkfCaT5zhSMTFcvS7XbaPKKhJoUcm1DtU2exKlarLdGvE5k3vBcsIYbq6jsi3YlVLZr73tUuTMXJ6I3Ae1FIOYX+EEoMgSHldq2WGL5xX1BC6oh/yA2suuv432zhvW7W8+G0bnOuVNymHFeqrE5UtBETqn/YiGPQd/V24xHN+xUcilB5VkzCd36IbOFRhvpZazvVHbdZwAeyqA3b00CIyTXxd7nUjdjtHSgb1KsFq0oFRtBkR7yyDkJFnSrf+JauQXZ7LopdH1l0Ry5y60x+uENLY4k9lQ6iFXAtRT+QQQiSLfbzy3+txydzrhI5fy8hnYCQ1JMz+BwjAWWbdIdtHVdpqGwUgNL+5Sn6bTUsxXtFXNwnXc3BZK6JR2rZ2i9QBVwXILhN0HVXstFMk6U23Ef3yCGuJsqEzKi6C5FSUP45DIjeLzVu32ENmt+rtLie5y+j+0LcvyB2VY7truIidyAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Group_84" data-name="Group 84" transform="translate(-139.59 -361.542)">
+    <g id="Group_83" data-name="Group 83" clip-path="url(#clip-path)">
+      <g id="Group_82" data-name="Group 82">
+        <g id="Group_81" data-name="Group 81" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_63" data-name="Rectangle 63" width="39.435" height="27.71" transform="translate(139.59 361.542)" fill="url(#pattern)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text id="_120" data-name="120" transform="translate(1.15 26.576)" font-size="6" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">120</tspan></text>
+</svg>

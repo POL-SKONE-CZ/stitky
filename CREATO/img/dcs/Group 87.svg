@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.267" height="28.701" viewBox="0 0 39.267 28.701">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_86" data-name="Rectangle 86" width="39.267" height="27.928" transform="translate(366.906 428.598)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="41.326" height="29.962" transform="translate(365.876 427.581)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 60 83">
+      <image width="60" height="83" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAABTCAIAAABMPPOqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB7SURBVGhD7c6xDYBADMDAPFNS07H/AjTMcFIkX+XS533uWeZcf6zStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStNK00rTStLJweuYDMykByhQGygEAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="Group_87" data-name="Group 87" transform="translate(-366.906 -428.598)">
+    <g id="Group_72" data-name="Group 72">
+      <g id="Group_71" data-name="Group 71" clip-path="url(#clip-path)">
+        <g id="Group_70" data-name="Group 70">
+          <g id="Group_69" data-name="Group 69" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_84" data-name="Rectangle 84" width="29.962" height="41.326" transform="translate(365.876 457.543) rotate(-90)" fill="url(#pattern)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="_645" data-name="645" transform="translate(368.92 455.299)" fill="#fff" font-size="6" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">645</tspan></text>
+  </g>
+</svg>
