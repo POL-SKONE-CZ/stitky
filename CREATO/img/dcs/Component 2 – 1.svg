@@ -1,0 +1,47 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.267" height="28.701" viewBox="0 0 39.267 28.701">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-size: 6px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_81" data-name="Rectangle 81" class="cls-1" width="39.267" height="27.928" transform="translate(457.756 428.598)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_80" data-name="Rectangle 80" class="cls-1" width="41.297" height="29.937" transform="translate(456.741 427.594)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 60 83">
+      <image width="60" height="83" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAABTCAIAAABMPPOqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB+SURBVGhD7c6xCcAwEMDAj+fIHNl/rkDATWYQGO4qlbrmfuYka753/X0U0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV0xXTFdMV05UDp2c2dq4C8UQlfLMAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <g id="Group_68" data-name="Group 68" transform="translate(-457.756 -428.598)">
+    <g id="Group_67" data-name="Group 67" class="cls-2">
+      <g id="Group_66" data-name="Group 66">
+        <g id="Group_65" data-name="Group 65" class="cls-3">
+          <rect id="Rectangle_79" data-name="Rectangle 79" class="cls-4" width="29.937" height="41.297" transform="translate(456.741 457.531) rotate(-90)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text id="_647" data-name="647" class="cls-5" transform="translate(2.436 26.701)"><tspan x="0" y="0">647</tspan></text>
+</svg>

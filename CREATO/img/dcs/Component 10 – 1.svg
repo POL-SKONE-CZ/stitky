@@ -1,0 +1,19 @@
+<svg id="Component_10_1" data-name="Component 10 – 1" xmlns="http://www.w3.org/2000/svg" width="39.685" height="28.928" viewBox="0 0 39.685 28.928">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #555759;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 6px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_52" data-name="Rectangle 52" class="cls-1" width="39.685" height="28.346"/>
+  <text id="UNI_MAT_" data-name="UNI MAT " class="cls-2" transform="translate(1.418 18.928)"><tspan x="0" y="0">UNI MAT </tspan></text>
+  <text id="PLUS" class="cls-2" transform="translate(1.418 26.928)"><tspan x="0" y="0">PLUS</tspan></text>
+</svg>

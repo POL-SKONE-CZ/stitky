@@ -1,25 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.267" height="28.492" viewBox="0 0 39.267 28.492">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.685" height="28.7" viewBox="0 0 39.685 28.7">
   <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-5 {
+        stroke: #c6c6c6;
+        stroke-width: 0.418px;
+      }
+
+      .cls-6 {
+        font-size: 6px;
+        font-family: OpenSans-Bold, Open Sans;
+        font-weight: 700;
+      }
+    </style>
     <clipPath id="clip-path">
-      <rect id="Rectangle_74" data-name="Rectangle 74" width="39.267" height="27.928" transform="translate(230.63 428.807)" fill="none"/>
+      <rect id="Rectangle_63" data-name="Rectangle 63" class="cls-1" width="39.267" height="27.928" transform="translate(230.63 428.807)"/>
     </clipPath>
     <clipPath id="clip-path-2">
-      <rect id="Rectangle_73" data-name="Rectangle 73" width="41.304" height="29.984" transform="translate(229.612 427.757)" fill="none"/>
+      <rect id="Rectangle_62" data-name="Rectangle 62" class="cls-1" width="41.304" height="29.984" transform="translate(229.612 427.757)"/>
     </clipPath>
     <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 60 83">
       <image width="60" height="83" xlink:href="data:image/png;base64,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"/>
     </pattern>
   </defs>
-  <g id="Group_84" data-name="Group 84" transform="translate(-230.63 -428.807)">
-    <g id="Group_60" data-name="Group 60">
-      <g id="Group_59" data-name="Group 59" clip-path="url(#clip-path)">
-        <g id="Group_58" data-name="Group 58">
-          <g id="Group_57" data-name="Group 57" clip-path="url(#clip-path-2)">
-            <rect id="Rectangle_72" data-name="Rectangle 72" width="29.984" height="41.304" transform="translate(229.612 457.742) rotate(-90)" fill="url(#pattern)"/>
+  <g id="Component_7_1" data-name="Component 7 – 1" transform="translate(0.209 0.208)">
+    <g id="Group_48" data-name="Group 48" transform="translate(-230.63 -428.807)">
+      <g id="Group_47" data-name="Group 47" class="cls-2">
+        <g id="Group_46" data-name="Group 46">
+          <g id="Group_45" data-name="Group 45" class="cls-3">
+            <rect id="Rectangle_61" data-name="Rectangle 61" class="cls-4" width="29.984" height="41.304" transform="translate(229.612 457.742) rotate(-90)"/>
           </g>
         </g>
       </g>
     </g>
-    <text id="_642" data-name="642" transform="translate(232.012 455.299)" font-size="6" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">642</tspan></text>
+    <rect id="Rectangle_64" data-name="Rectangle 64" class="cls-5" width="39.267" height="27.928" transform="translate(0 0.001)"/>
+    <text id="_642" data-name="642" class="cls-6" transform="translate(1.382 26.492)"><tspan x="0" y="0">642</tspan></text>
   </g>
 </svg>
