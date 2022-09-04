@@ -57,10 +57,11 @@ html {
     padding: 0; }
     #stitek #outer_modely #modely_wrapper {
       display: flex;
+      justify-content: center;
       flex-wrap: wrap; }
       #stitek #outer_modely #modely_wrapper .single_door {
         margin: 0 .75mm 0 .75mm;
-        width: 12.25%; }
+        width: 17.5%; }
         #stitek #outer_modely #modely_wrapper .single_door img {
           margin-bottom: 0;
           max-width: 100%; }
