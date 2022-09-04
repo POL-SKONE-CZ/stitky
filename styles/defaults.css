@@ -1,15 +1,15 @@
 @font-face {
   font-family: Roboto;
   font-weight: 100;
-  src: url(../fonts/Roboto-Thin.ttf); }
+  src: url(../../fonts/Roboto-Thin.ttf); }
 @font-face {
   font-family: Roboto;
   font-weight: 400;
-  src: url(../fonts/Roboto-Regular.ttf); }
+  src: url(../../fonts/Roboto-Regular.ttf); }
 @font-face {
   font-family: Roboto;
   font-weight: 700;
-  src: url(../fonts/Roboto-Bold.ttf); }
+  src: url(../../fonts/Roboto-Bold.ttf); }
 @page {
   height: 280mm;
   width: 98mm;

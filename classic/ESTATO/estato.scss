@@ -86,12 +86,12 @@
   
   #stitek #outer_modely #modely_wrapper .single_door {
     margin: 0 0.75mm 0 0.75mm;
-    width: 17.5%;
+    width: 14.75%;
   }
   
   #stitek #outer_modely #modely_wrapper .single_door img {
     margin-bottom: 0;
-    max-width: 100%;
+    width: 100%;
   }
   
   #stitek #outer_modely #modely_wrapper .single_door p {
@@ -99,6 +99,10 @@
     text-align: center;
     font-weight: 700;
     font-size: 2mm;
+  }
+
+  .grey-out{
+    color: #808080;
   }
   
   #stitek #primary_text p {
@@ -205,6 +209,15 @@
     font-size: 2mm;
     font-weight: 400;
     max-width: 10mm;
+  }
+
+  #stitek #dekory .paleta .full_paleta div .ralcode{
+    font-size: 1.5mm;
+  }
+
+  #stitek #dekory .paleta .full_paleta div #mocdlouhy{
+    max-width: 25mm;
+    text-align: left;
   }
   
   #stitek #footer {
