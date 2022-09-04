@@ -52,7 +52,7 @@ html {
 #stitek #nadpis #text_nadpis h2 {
   margin: 0 0 0 0;
   padding: 0 0 0 0;
-  font-size: 10mm;
+  font-size: 7.5mm;
 }
 #stitek #nadpis #text_nadpis p {
   margin: 0 0 0 0;
@@ -71,11 +71,12 @@ html {
 }
 #stitek #outer_modely #modely_wrapper {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
 }
 #stitek #outer_modely #modely_wrapper .single_door {
   margin: 0 0.75mm 0 0.75mm;
-  width: 12.25%;
+  width: 17.5%;
 }
 #stitek #outer_modely #modely_wrapper .single_door img {
   margin-bottom: 0;
