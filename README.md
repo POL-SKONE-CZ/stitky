@@ -3,7 +3,7 @@
 
 
 
-# Set of printable ready PDFs
+# WIP: Set of printable ready PDFs
 This repository contains labels for most of our product lines.
 These labels are supposed to be next to every product in showrooms so people
 can easily find more information about specific product line.
