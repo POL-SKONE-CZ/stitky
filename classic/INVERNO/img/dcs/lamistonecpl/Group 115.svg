@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.435" height="28.576" viewBox="0 0 39.435 28.576">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_72" data-name="Rectangle 72" width="39.435" height="28.096" transform="translate(322.141 343.826)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="41.472" height="30.132" transform="translate(321.122 342.813)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 61 83">
+      <image width="61" height="83" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="Group_115" data-name="Group 115" transform="translate(-322.141 -343.826)">
+    <g id="Group_52" data-name="Group 52">
+      <g id="Group_51" data-name="Group 51" clip-path="url(#clip-path)">
+        <g id="Group_50" data-name="Group 50">
+          <g id="Group_49" data-name="Group 49" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_70" data-name="Rectangle 70" width="30.132" height="41.472" transform="translate(321.122 372.945) rotate(-90)" fill="url(#pattern)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="_258" data-name="258" transform="translate(323.284 370.401)" font-size="6" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">258</tspan></text>
+  </g>
+</svg>
