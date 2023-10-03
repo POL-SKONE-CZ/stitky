@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.267" height="27.929" viewBox="0 0 39.267 27.929">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_56" data-name="Rectangle 56" width="39.267" height="27.929" transform="translate(936.473 454.456)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_55" data-name="Rectangle 55" width="41.439" height="30.03" transform="translate(935.367 453.406)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 41 56">
+      <image width="41" height="56" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAA4CAIAAADviEafAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABGSURBVFhH7c2hAcAwDMCwrM/k/w9HeoNKLGLob3fnkXP7Qm+vt9fb6+319np7vb3eXm+vt9fb6+319np7vb3eXm+vtzbzA2/kAOXJVYDBAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Group_127" data-name="Group 127" transform="translate(-936.473 -454.456)">
+    <g id="Group_52" data-name="Group 52">
+      <g id="Group_51" data-name="Group 51" clip-path="url(#clip-path)">
+        <g id="Group_50" data-name="Group 50">
+          <g id="Group_49" data-name="Group 49" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_54" data-name="Rectangle 54" width="30.03" height="41.439" transform="translate(935.367 483.435) rotate(-90)" fill="url(#pattern)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Path_51" data-name="Path 51" d="M938.488,479.338a4.943,4.943,0,0,1,.054-.731,2.815,2.815,0,0,1,.189-.682,1.8,1.8,0,0,1,.378-.569,1.679,1.679,0,0,1,.618-.389,2.564,2.564,0,0,1,.908-.143c.084,0,.182,0,.295.011a2.1,2.1,0,0,1,.279.033v.724a2.207,2.207,0,0,0-.25-.042,2.158,2.158,0,0,0-.265-.017,1.653,1.653,0,0,0-.825.17.93.93,0,0,0-.41.471,2.189,2.189,0,0,0-.139.7h.038a1.026,1.026,0,0,1,.206-.255.938.938,0,0,1,.3-.177,1.212,1.212,0,0,1,.419-.066,1.282,1.282,0,0,1,.651.16,1.068,1.068,0,0,1,.425.461,1.877,1.877,0,0,1-.03,1.533,1.226,1.226,0,0,1-.5.511,1.6,1.6,0,0,1-.775.177,1.644,1.644,0,0,1-.612-.113,1.34,1.34,0,0,1-.5-.344,1.6,1.6,0,0,1-.334-.584A2.615,2.615,0,0,1,938.488,479.338Zm1.546,1.154a.562.562,0,0,0,.434-.181.823.823,0,0,0,.167-.569.762.762,0,0,0-.145-.493.53.53,0,0,0-.438-.18.67.67,0,0,0-.35.089.657.657,0,0,0-.233.226.53.53,0,0,0-.082.279,1.1,1.1,0,0,0,.041.3.88.88,0,0,0,.123.267.659.659,0,0,0,.2.193A.528.528,0,0,0,940.034,480.492Zm5.006-.222h-.516v.888h-.885v-.888h-1.828v-.63l1.878-2.766h.835v2.693h.516Zm-1.4-.7v-.727c0-.068,0-.149.005-.243s.006-.188.01-.281.008-.178.013-.251l.01-.154h-.023c-.037.081-.076.158-.117.233s-.089.154-.144.236l-.785,1.187Zm4.833.7h-.516v.888h-.885v-.888h-1.828v-.63l1.878-2.766h.835v2.693h.516Zm-1.4-.7v-.727c0-.068,0-.149.005-.243s.006-.188.01-.281.008-.178.013-.251l.01-.154h-.023c-.037.081-.076.158-.117.233s-.089.154-.144.236l-.785,1.187Z" fill="#fff"/>
+  </g>
+</svg>
