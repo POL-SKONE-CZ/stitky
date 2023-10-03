@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.434" height="28.096" viewBox="0 0 39.434 28.096">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_39" data-name="Rectangle 39" width="39.434" height="28.096" transform="translate(754.583 454.582)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_38" data-name="Rectangle 38" width="41.443" height="30.128" transform="translate(753.578 453.566)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 56 41">
+      <image width="56" height="41" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAApCAIAAADvbn13AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMrSURBVFhHrVcLkusgDGt6x7f3v0mfjYzjL4RONcwWbCErhux2r39/fy/BJZ8KCnwQlhQC+LxmcIU1ZWgxpm4JqkR4jzmQuG1g6ZIyOtawNDv3oFo0rNEKaefYRmg6UFU6Q1agyHV3dKxGr24qT3jtAvKpsQEEfOx7VDpqVDrEHEwN2wS8BlY+9hskTdvRgeRyg5qJqOZoUo4lfB5GZ8zlrBZf55AOKw+9wWmXA7I9wST9y9S0s1Dqxaf8ipGwJ5NRT5LVHSx+E7WylGhzO2BvuZ3j0lG0Ug9McejyJ6h1xGhX5FOYL3Hgku/7hl6k3R29WABjLHn4PX41UUcFIzmkZPDT7x9fuApjFBp3CyO1wYrDEp+CAWkMLLd4J5asr3DoqupQlwC3ziUQre/vrfGWU5CIFd8WqgnttnExq/5yqN01M++SUbzsD1DWI2cYmIeIRd5roXeUaD2zyKxlBepm95oLShYFabi3Hhjs/towCsEcsj2jC4Y7Zh2XrS2kB4ZRTq6dbdCpK8gfBuYWtHzitejoYJbkPbjk5fqk/iZY3AbR6eA1IxhFDd/dqLBbsxH56S0CJC76VbZFMIov+CcCCXodn8B6tU3NDpzR4fIMlk+VtPDzbj1kqlGlr889Ivfu6EAB3TIuniyCjBrliqOqJ+wOMcgdnXsJ/dMdZHJH19jTqD2nTcWzrTeGl4ngn+SkJJpx3lG52byx3wyjRBSGffUqHLt4ANYUr311GCWqMp5awQbL3j1ki7KPQSse/ZelJr49/WJLCKjRY+28gY4PTV28E2voK5+hRlXbF3EbN/W1KzRZNpV0bqmSmWPx6OMfeodVcQJ/GzHovVLC5XACdzurEymPvq1Q4manfcu+Lhr/yVZtRx/6W9GoK2iMVgpWdKkTYtLc3k5ahl0EGIWqPoV/nLQnI1C4tAmhsJbXCUBz51I+I97YO+bCIR1MehSEEKLaKF/dN4cnLgnjv9CU/4lXAlprrRBgHU8SUiWIQWMcfXroGKjVimgOwYra4uWn9lcXmRhGE+VYxoCIj7mC5RbJzLdelje/32nRsiihufs7QHVhl4Vm8vX6D4U67c6Mzp4nAAAAAElFTkSuQmCC"/>
+    </pattern>
+  </defs>
+  <g id="Group_123" data-name="Group 123" transform="translate(-754.583 -454.582)">
+    <g id="Group_36" data-name="Group 36">
+      <g id="Group_35" data-name="Group 35" clip-path="url(#clip-path)">
+        <g id="Group_34" data-name="Group 34">
+          <g id="Group_33" data-name="Group 33" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_37" data-name="Rectangle 37" width="41.443" height="30.128" transform="translate(753.578 453.566)" fill="url(#pattern)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Path_47" data-name="Path 47" d="M755.944,479.338a4.943,4.943,0,0,1,.054-.731,2.815,2.815,0,0,1,.189-.682,1.8,1.8,0,0,1,.378-.569,1.679,1.679,0,0,1,.618-.389,2.564,2.564,0,0,1,.908-.143c.084,0,.182,0,.295.011a2.1,2.1,0,0,1,.279.033v.724a2.2,2.2,0,0,0-.25-.042,2.158,2.158,0,0,0-.265-.017,1.653,1.653,0,0,0-.825.17.93.93,0,0,0-.41.471,2.189,2.189,0,0,0-.139.7h.038a1.025,1.025,0,0,1,.206-.255.933.933,0,0,1,.3-.177,1.2,1.2,0,0,1,.418-.066,1.282,1.282,0,0,1,.651.16,1.068,1.068,0,0,1,.425.461,1.878,1.878,0,0,1-.03,1.533,1.226,1.226,0,0,1-.505.511,1.6,1.6,0,0,1-.775.177,1.644,1.644,0,0,1-.612-.113,1.34,1.34,0,0,1-.5-.344,1.6,1.6,0,0,1-.334-.584A2.613,2.613,0,0,1,755.944,479.338Zm1.547,1.154a.561.561,0,0,0,.433-.181.823.823,0,0,0,.167-.569.762.762,0,0,0-.145-.493.53.53,0,0,0-.438-.18.67.67,0,0,0-.35.089.657.657,0,0,0-.233.226.53.53,0,0,0-.082.279,1.1,1.1,0,0,0,.041.3.881.881,0,0,0,.123.267.659.659,0,0,0,.2.193A.529.529,0,0,0,757.491,480.492Zm5-.222h-.516v.888h-.885v-.888h-1.828v-.63l1.878-2.766h.835v2.693h.516Zm-1.4-.7v-.727c0-.068,0-.149.005-.243s.006-.188.01-.281.008-.178.013-.251l.01-.154h-.023c-.037.081-.076.158-.117.233s-.089.154-.144.236l-.785,1.187Zm4.713-.551a4.776,4.776,0,0,1-.081.926,2.057,2.057,0,0,1-.258.691,1.185,1.185,0,0,1-.464.434,1.5,1.5,0,0,1-.7.149,1.322,1.322,0,0,1-.847-.262,1.523,1.523,0,0,1-.489-.756,3.881,3.881,0,0,1-.158-1.182,4.241,4.241,0,0,1,.145-1.188,1.459,1.459,0,0,1,.473-.757,1.354,1.354,0,0,1,.876-.264,1.324,1.324,0,0,1,.845.262,1.542,1.542,0,0,1,.494.756A3.875,3.875,0,0,1,765.808,479.016Zm-2.095,0a5.136,5.136,0,0,0,.054.816,1.082,1.082,0,0,0,.183.491.471.471,0,0,0,.714,0,1.064,1.064,0,0,0,.186-.489,6.1,6.1,0,0,0,0-1.636,1.091,1.091,0,0,0-.186-.494.467.467,0,0,0-.714,0,1.092,1.092,0,0,0-.183.494A5.15,5.15,0,0,0,763.713,479.016Z" fill="#fff"/>
+  </g>
+</svg>
