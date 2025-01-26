@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      - sk
+      - skv2
 
 jobs:
   build:
