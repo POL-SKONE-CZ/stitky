@@ -10,21 +10,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: ${{ github.ref_name }}
+
       - name: Run playbook
         uses: dawidd6/action-ansible-playbook@v2
         with:
           playbook: playbook.yml
           directory: ./
-      - name: Create pdf's
+
+      - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-      - name: Commit files
+
+      - name: Commit PDFs
         run: |
           git add .
-          git commit -m "Created pdfs" -a
+          git commit -m "Automaticky vygenerované PDF [skip ci]" || echo "Žádné změny k commitu"
+
+      - name: Pull changes with rebase
+        run: git pull --rebase origin ${{ github.ref_name }}
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref_name }}
