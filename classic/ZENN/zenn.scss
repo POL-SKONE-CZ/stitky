@@ -135,37 +135,39 @@ html{
       }
     }
 
-    #panty_features{
+    #panty_features {
 
       margin-bottom: 5mm;
       display: flex;
       justify-content: space-between;
-
-      #panty_wrapper{
+  
+      #panty_wrapper {
         display: flex;
-        width: 55%;
+        width: 35%;
         flex-wrap: wrap;
         justify-content: space-between;
-
-        .zaruben_icon{
+  
+        .zaruben_icon {
           //margin-right: 2.5mm;
           margin-bottom: 1.5mm;
           width: 12.5mm;
         }
       }
-
-      #features_wrapper{
-        width: 30%;
+  
+      #features_wrapper {
+        width: 60%;
         display: flex;
         flex-direction: row-reverse;
-        
-        .feat{
+  
+        .feat {
           margin-left: 2.5mm;
-          img{
+  
+          img {
             width: 20mm;
             border: 1px solid #B3B3B3;
           }
-          p{
+  
+          p {
             max-width: 20mm;
             font-size: 1.5mm;
             margin-top: 0;
@@ -174,34 +176,39 @@ html{
       }
     }
 
-    #dekory{
+
+    #dekory {
       margin-bottom: 5mm;
-
-      .paleta{
+  
+      .paleta {
         display: flex;
-
-        .leading_paleta{
+  
+        .leading_paleta {
           margin-right: 5mm;
-          img{
-            height: 8mm;
+  
+          img {
+            height: 7.5mm;
           }
         }
-
-        .full_paleta{
+  
+        .full_paleta {
           width: 100%;
           display: flex;
           flex-direction: row;
           flex-wrap: wrap;
-
-          div{
+  
+          div {
             margin-right: 2.5mm;
-            img{
+  
+            img {
               margin-bottom: 0;
               padding-bottom: 0;
               height: 7.5mm;
+              // border-top: .2mm solid #B3B3B3;
+              // border-right: .2mm solid #B3B3B3;
             }
-
-            p{
+  
+            p {
               margin-top: 0;
               padding-top: 0;
               text-align: center;
@@ -209,23 +216,15 @@ html{
               font-weight: 400;
               max-width: 10mm;
             }
-
-            #mocdlouhy{
-                max-width: 25mm;
-                text-align: left;
-            }
-            .ralcode{
-                font-size: 1.5mm;
-            }
           }
         }
-        
       }
     }
-
-    #footer{
+  
+    #footer {
       width: 100%;
-      #footer_wrapper{
+  
+      #footer_wrapper {
         position: absolute;
         bottom: 0;
         left: 0;
@@ -235,10 +234,11 @@ html{
         display: flex;
         justify-content: center;
         align-items: center;
-        p{
+  
+        p {
           font-size: 3mm;
           color: white;
         }
       }
     }
-}
+  }
