@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.685" height="29.01" viewBox="0 0 39.685 29.01">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_67" data-name="Rectangle 67" width="39.685" height="28.346" transform="translate(922.551 436.794)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_66" data-name="Rectangle 66" width="41.785" height="30.406" transform="translate(921.503 435.739)" fill="none"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 41 56">
+      <image width="41" height="56" xlink:href="data:image/png;base64,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"/>
+    </pattern>
+  </defs>
+  <g id="Group_103" data-name="Group 103" transform="translate(-922.551 -436.794)">
+    <g id="Group_52" data-name="Group 52">
+      <g id="Group_51" data-name="Group 51" clip-path="url(#clip-path)">
+        <g id="Group_50" data-name="Group 50">
+          <g id="Group_49" data-name="Group 49" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_65" data-name="Rectangle 65" width="30.406" height="41.785" transform="translate(921.503 466.145) rotate(-90)" fill="url(#pattern)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="_289" data-name="289" transform="translate(924.971 463.804)" font-size="6" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">289</tspan></text>
+  </g>
+</svg>
